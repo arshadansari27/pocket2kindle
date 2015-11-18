@@ -1,0 +1,6 @@
+.ropeproject/
+images/
+*.pyc
+*.html
+*.log
+*.json
